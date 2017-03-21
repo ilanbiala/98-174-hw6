@@ -1,10 +1,10 @@
 This file has the structure for a sample essay.
 
 Introduction:
-Here I'm introducing the problems and making the reader aware of thee content of the essay.
+Here I'm introducing the problems and making the reader aware of the content of the essay.
 
 Body 1:
-I start talking about the first advantage of my solution and developing the idea a bite.
+I start talking about the first advantage of my solution and developing the idea a bit.
 
 Body 2:
 I develop the argument a bit more and introduce the 2nd advantage.
