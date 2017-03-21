@@ -1,0 +1,13 @@
+This file has the structure for a sample essay.
+
+Introduction:
+
+Body 1:
+
+Body 2:
+
+Body 3:
+
+Counterargument:
+
+Conclusion:
