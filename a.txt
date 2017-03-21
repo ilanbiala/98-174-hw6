@@ -1,13 +1,19 @@
 This file has the structure for a sample essay.
 
 Introduction:
+Here Im introduscing the problemz and making the reader awar of thee content of the sa.
 
 Body 1:
+I start talking about the first advantage of my soln and developing the idea a bite.
 
 Body 2:
+I develop the argyument a bit more and introduse the 2nd advantage.
 
 Body 3:
+I flesh out my solutin and give the last advantage.
 
 Counterargument:
+Ive looked at the alternativez, and here is why my soln is better.
 
 Conclusion:
+Finally I'll review the problm, my soln, and why it's a good 1.
